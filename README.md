@@ -20,7 +20,7 @@ The Ultimate Free Cheats for Roblox
 - Lag Server – Slow down the server for easier gameplay.
 ## And Much More!
 
-##Troubleshooting:
+## Troubleshooting:
 If the cheats aren’t working or not loading, try the following steps:
 
 - Check for Updates – Ensure the cheats are up to date.
